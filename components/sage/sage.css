@@ -1,0 +1,41 @@
+.drop{
+    width:346%;
+    height: 29px;
+}
+.min{
+    width: 44px;
+}
+.production{
+    width: 25%;
+}
+
+.input-group-btn{
+    margin-top: -5px;
+    margin-left: 3%;
+}
+
+.btn-height{
+    height: 25px;
+    padding: 2px;
+    border-radius: 7px;
+    width: 130%;
+    background-color: #5bc0de !important;
+    border-color: #46b8da !important;
+}
+
+.text-box{
+    height: 29px;
+}
+
+.days-text{
+    width: 100px;
+    margin-top: -26px;
+    margin-left: 106%;
+}
+.min-max{
+    margin-left: 2%;
+}
+.refresh-img{
+    width: 15%;
+    color: #5bc0de !important;
+}
